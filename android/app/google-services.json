@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293548724012",
+    "project_id": "project-billiard",
+    "storage_bucket": "project-billiard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293548724012:android:28574e4581d38d3b44a689",
+        "android_client_info": {
+          "package_name": "com.iqbal.billiard_x"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr5RjlutZsIpbeRcvzVhP14jthDaaA7M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
